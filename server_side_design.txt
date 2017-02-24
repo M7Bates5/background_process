@@ -1,0 +1,13 @@
+SERVER SIDE LIVING DESIGN DOC
+
+This document serves as a log of the current design concepts for the server side application(s) and a repository for ideas whether adopted or not.
+
+Initial Thoughts:
+
+Shalls:
+take command line arguments.
+be capable of recursive directory search.
+capable of finding specified strings(tags) within the file system.
+produce matches:
+return as path/to/file?
+store as array of paths/to/files and provide means of access?
